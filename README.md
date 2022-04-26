@@ -16,6 +16,17 @@ Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que est√
 
 <br>
 
+<!-- TECNOLOGIAS -->
+<!-- https://github.com/aemmadi/aemmadi -->
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+</div>
+
 <!-- REDES SOCIAIS -->
 <div align="center">
   <a href="https://www.youtube.com/tecnologiaemvideo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
