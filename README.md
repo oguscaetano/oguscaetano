@@ -17,7 +17,6 @@ Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que est√
 <br>
 
 <!-- TECNOLOGIAS -->
-<!-- https://github.com/aemmadi/aemmadi -->
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
