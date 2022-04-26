@@ -9,7 +9,7 @@ Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que est√
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-caetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-caetano&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-caetano&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
