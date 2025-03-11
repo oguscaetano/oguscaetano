@@ -1,8 +1,7 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Gustavo Caetano e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2009 😎
-Mestre em Ciência da Computação com experiência de mercado em engenharia de software, gestão de projetos/pessoas e liderança técnica. Também tenho experiência acadêmica como professor e coordenador de curso técnico, graduação e pós-graduação na área de tecnologia. Possuo um canal no YouTube com +35k de inscritos e sou host do podcast Papinho Tech.
-Um amante incondicional da tecnologia e educação!
+Meu nome é Gustavo Caetano e atuo com tecnologia e educação desde 2009 😎
+Mestre em Ciência da Computação com experiência de mercado em engenharia de software, gestão de projetos/pessoas e liderança técnica. Também tenho experiência acadêmica como professor e coordenador de curso técnico, graduação e pós-graduação na área de tecnologia. Possuo um canal no YouTube com +50k de inscritos e sou host do podcast Papinho Tech.
 
 <br>
 
